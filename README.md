@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Asami VC
+# Hi there! 👋 I'm Everlyz
 
 ## 👩‍💻 About Me
 I'm a passionate JavaScript Developer with a love for creating web applications and solving real-world problems through code.
